@@ -1,4 +1,4 @@
-name,pKa,LUMO (eV),HOMO (eV),? (D),v(C=O) (cm-1),C=O (Å),MC(OH)
+name,pKa,LUMO (eV),HOMO (eV),u (D),v(C=O) (cm-1),C=O (Ã…),MC(OH)
 Trifluoroacetic acid,0.52,-1.1377,-8.6951,2.1817,1908.79,1.197,0.19697
 Fluoroacetic acid,2.59,-0.1884,-7.968,0.2818,1869.62,1.205,0.18661
 Acetic acid,4.76,0.1866,-7.612,1.6163,1870,1.205,0.17888
